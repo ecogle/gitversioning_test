@@ -1,3 +1,6 @@
 This is the first addition of the first file.
 
 Some other text in the same place.
+
+More text in this place
+
